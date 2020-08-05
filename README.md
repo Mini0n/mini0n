@@ -1,4 +1,4 @@
-### `Hello! 🌌`
+
 ![by Viktor Juric https://unsplash.com/@zurux](https://i.imgur.com/wuQmK3y.jpg)
 
 <!--
